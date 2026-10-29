@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite — Digital College Canteen",
+  "description": "Mobile-first digital college canteen ordering platform. Browse menu, schedule pickup slots, order ahead, pay digitally, and skip queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
